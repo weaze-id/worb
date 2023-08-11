@@ -1,4 +1,4 @@
-# worb - Simplified Form Validation for React
+# worb
 
 **worb** is a library that provides a reactive container for values that can be observed for changes. It allows you to create "Orb" instances that store values and emit change events whenever the value is updated.
 
